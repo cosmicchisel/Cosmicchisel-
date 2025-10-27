@@ -1,4 +1,0 @@
-# For example, open README.md, add a space, then save.
-git add  .
-git commit -m "Trigger deployment"
-git push origin main
